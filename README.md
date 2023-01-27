@@ -23,7 +23,7 @@ http://flysilo.top:8080/live/311666215923853028/6051666215923853/51157.m3u8
 http://flysilo.top:8080/live/311666215923853028/6051666215923853/51158.m3u8
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEMUNDO BOSTON" tvg-logo="https://docdog.top/logo/countries/us/telemundoboston.png" group-title="TELEMUNDO USA",TELEMUNDO BOSTON
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEMUNDO BOSTON" tvg-logo="" group-title="TELEMUNDO USA 2",TELEMUNDO BOSTON
 http://flysilo.top:8080/live/311666215923853028/6051666215923853/51159.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEMUNDO PUERTO RICO" tvg-logo="https://docdog.top/logo/countries/us/telemundoboston.png" group-title="TELEMUNDO USA 2",TELEMUNDO PUERTO RICO
