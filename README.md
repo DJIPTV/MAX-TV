@@ -2,16 +2,17 @@
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="=====USA | TELEMUNDO=====" tvg-logo="https://docdog.top/logo/countries/us/countrypic.png" group-title="TELEMUNDO USA",=====USA | TELEMUNDO=====
 http://flysilo.top:8080/live/311666215923853028/6051666215923853/51149.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: VIP TELEMUNDO TUCSON" tvg-logo="https://docdog.top/logo/countries/us/telemundotucson.png" group-title="TELEMUNDO USA",USA: VIP TELEMUNDO TUCSON
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEMUNDO TUCSON" tvg-logo="https://docdog.top/logo/countries/us/telemundotucson.png" group-title="TELEMUNDO USA",TELEMUNDO TUCSON
 http://flysilo.top:8080/live/311666215923853028/6051666215923853/51150.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: VIP TELEMUNDO MIAMI" tvg-logo="https://docdog.top/logo/countries/us/telemundomiami.png" group-title="TELEMUNDO USA",USA: VIP TELEMUNDO MIAMI
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEMUNDO MIAMI" tvg-logo="https://docdog.top/logo/countries/us/telemundomiami.png" group-title="TELEMUNDO USA",TELEMUNDO MIAMI
 http://flysilo.top:8080/live/311666215923853028/6051666215923853/51151.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: VIP TELEMUNDO LOS ANGELES" tvg-logo="https://docdog.top/logo/countries/us/telemundolosangeles.png" group-title="TELEMUNDO USA",USA: VIP TELEMUNDO LOS ANGELES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEMUNDO LOS ANGELES" tvg-logo="https://docdog.top/logo/countries/us/telemundolosangeles.png" group-title="TELEMUNDO USA"TELEMUNDO LOS ANGELES
 http://flysilo.top:8080/live/311666215923853028/6051666215923853/51152.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: VIP TELEMUNDO PHOENIX" tvg-logo="https://docdog.top/logo/countries/us/telemundophoenix.png" group-title="TELEMUNDO USA",USA: VIP TELEMUNDO PHOENIX
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEMUNDO PHOENIX" tvg-logo="https://docdog.top/logo/countries/us/telemundophoenix.png" group-title="TELEMUNDO USA",TELEMUNDO PHOENIX
 http://flysilo.top:8080/live/311666215923853028/6051666215923853/51153.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: VIP TELEMUNDO LAS VEGAS" tvg-logo="https://docdog.top/logo/countries/us/telemundolasvegas.png" group-title="TELEMUNDO USA",USA: VIP TELEMUNDO LAS VEGAS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEMUNDO LAS VEGAS" tvg-logo="https://docdog.top/logo/countries/us/telemundolasvegas.png" group-title="TELEMUNDO USA"TELEMUNDO LAS VEGAS
 http://flysilo.top:8080/live/311666215923853028/6051666215923853/51154.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: VIP TELEMUNDO HOUSTON" tvg-logo="https://docdog.top/logo/countries/us/telemundohouston.png" group-title="TELEMUNDO USA",USA: VIP TELEMUNDO HOUSTON
 http://flysilo.top:8080/live/311666215923853028/6051666215923853/51155.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: VIP TELEMUNDO FRESNO" tvg-logo="https://docdog.top/logo/countries/us/telemundofresno.png" group-title="TELEMUNDO USA",USA: VIP TELEMUNDO FRESNO
@@ -21,13 +22,13 @@ http://flysilo.top:8080/live/311666215923853028/6051666215923853/51157.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: VIP TELEMUNDO CHICAGO" tvg-logo="https://docdog.top/logo/countries/us/telemundochicago.png" group-title="TELEMUNDO USA",USA: VIP TELEMUNDO CHICAGO
 http://flysilo.top:8080/live/311666215923853028/6051666215923853/51158.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEMUNDO BOSTON" tvg-logo="https://docdog.top/logo/countries/us/telemundoboston.png" group-title="TELEMUNDO USA",TELEMUNDO BOSTON
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEMUNDO BOSTON" tvg-logo="boston" group-title="TELEMUNDO USA",TELEMUNDO BOSTON
 http://flysilo.top:8080/live/311666215923853028/6051666215923853/51159.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEMUNDO PUERTO RICO" tvg-logo="https://docdog.top/logo/countries/us/telemundopuertorico.png" group-title="TELEMUNDO USA 2",TELEMUNDO PUERTO RICO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEMUNDO PUERTO RICO" tvg-logo="https://docdog.top/logo/countries/us/telemundoboston.png" group-title="TELEMUNDO USA 2",TELEMUNDO PUERTO RICO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEMUNDO TELENOVELAS" tvg-logo="https://docdog.top/logo/countries/us/telemundomiami.png" group-title="TELEMUNDO USA 2",TELEMUNDO TELENOVELAS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEMUNDO TELENOVELAS" tvg-logo="telenovelas" group-title="TELEMUNDO USA 2",TELEMUNDO TELENOVELAS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96cc422df39f1a338d165&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=940&terminate=false&userId=
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: VIP UNIMAS NETWORK" tvg-logo="https://docdog.top/logo/countries/us/unimas.png" group-title="UNIVISION UNIMAS",USA: VIP UNIMAS NETWORK
