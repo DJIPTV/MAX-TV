@@ -20,12 +20,14 @@ http://flysilo.top:8080/live/311666215923853028/6051666215923853/51156.m3u8
 http://flysilo.top:8080/live/311666215923853028/6051666215923853/51157.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: VIP TELEMUNDO CHICAGO" tvg-logo="https://docdog.top/logo/countries/us/telemundochicago.png" group-title="TELEMUNDO USA",USA: VIP TELEMUNDO CHICAGO
 http://flysilo.top:8080/live/311666215923853028/6051666215923853/51158.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: VIP TELEMUNDO BOSTON" tvg-logo="https://docdog.top/logo/countries/us/telemundoboston.png" group-title="TELEMUNDO USA",USA: VIP TELEMUNDO BOSTON
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEMUNDO BOSTON" tvg-logo="https://docdog.top/logo/countries/us/telemundoboston.png" group-title="TELEMUNDO USA",USA: VIP TELEMUNDO BOSTON
 http://flysilo.top:8080/live/311666215923853028/6051666215923853/51159.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEMUNDO PUERTO RICO" tvg-logo="" group-title="TELEMUNDO USA 2",TELEMUNDO PUERTO RICO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEMUNDO PUERTO RICO" tvg-logo="https://docdog.top/logo/countries/us/telemundopuertorico.png" group-title="TELEMUNDO USA 2",TELEMUNDO PUERTO RICO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEMUNDO TELENOVELAS" tvg-logo="" group-title="TELEMUNDO USA 2",TELEMUNDO TELENOVELAS
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEMUNDO TELENOVELAS" tvg-logo="https://docdog.top/logo/countries/us/telemundomiami.png" group-title="TELEMUNDO USA 2",TELEMUNDO TELENOVELAS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96cc422df39f1a338d165&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=940&terminate=false&userId=
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: VIP UNIMAS NETWORK" tvg-logo="https://docdog.top/logo/countries/us/unimas.png" group-title="UNIVISION UNIMAS",USA: VIP UNIMAS NETWORK
